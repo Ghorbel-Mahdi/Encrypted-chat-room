@@ -1,0 +1,5 @@
+dn: cn=security-group,ou=security,dc=hedi,dc=com
+objectclass: groupofnames
+cn: security-group
+description: IT security group
+member: cn=admin,dc=hedi,dc=com

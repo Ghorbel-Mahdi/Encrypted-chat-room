@@ -1,0 +1,4 @@
+dn: cn=security-group,ou=security,dc=hedi,dc=com
+objectClass: top
+objectClass: organizationalUnit
+ou: security
