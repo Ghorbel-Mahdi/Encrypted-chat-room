@@ -1,6 +1,8 @@
 import tkinter as tk
 import socket
 import threading
+import rsa
+
 
 class Client:
     def __init__(conn,adress, pk: object):
